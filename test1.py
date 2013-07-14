@@ -4,7 +4,7 @@ Created on Jul 8, 2013
 @author: lsh
 '''
 
-from flask import Flask
+from flask import Flask1
 from flask import render_template
 app = Flask(__name__)
 
